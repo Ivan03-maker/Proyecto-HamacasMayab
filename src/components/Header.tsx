@@ -3,7 +3,7 @@ import { ShoppingCart, Menu, X, Search } from "lucide-react";
 import { Button } from "./ui/button";
 import { Badge } from "./ui/badge";
 import { Input } from "./ui/input";
-import logoImage from "../assets/logohm.jpg";
+import logoImage from "/assets/logohm.jpg";
 
 interface HeaderProps {
 	cartItems: number;
